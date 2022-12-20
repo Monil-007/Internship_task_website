@@ -1,0 +1,86 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    gap: 28%;
+    margin-left: 0.5%;
+
+}
+
+.navp1 {
+    color: #3DC6C1;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.navp2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    margin-top: 55px;
+    margin-left: -50px;
+    margin-right: 20px;
+}
+
+.navp3 {
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+    margin-top: 55px;
+}
+
+.button1 {
+    background-color: #2E3241;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 30px;
+    color: white;
+}
+
+
+
+.button2 {
+    background-color: #2E3241;
+    border-radius: 10px;
+    cursor: pointer;
+
+    color: white;
+    height: 30px;
+}
+
+.button3 {
+    background-color: #2E3241;
+    border-radius: 10px;
+    cursor: pointer;
+    white-space: nowrap;
+    color: white;
+    height: 30px;
+
+}
+
+.button3alink {
+    text-decoration: none;
+    color: white;
+}
+
+.sitename {
+    font-size: 40px;
+}
+
+.button4 {
+    border-radius: 100%;
+    height: 25px;
+    background-color: #2E3241;
+    border-color: #3DC6C1;
+    color: #3DC6C1;
+}
+
+.button5 {
+    background-color: #3DC6C1;
+    border-radius: 10px;
+    cursor: pointer;
+    white-space: nowrap;
+    height: 30px;
+    width: 150px;
+    color: white;
+}

@@ -1,0 +1,41 @@
+.copyright {
+    display: flex;
+    justify-content: left;
+    margin-left: 13px;
+    gap: 9%;
+    color: grey;
+}
+
+.support {
+    text-align: right;
+    color: grey;
+    cursor: pointer;
+    margin-top: 12px;
+    margin-left: -70px;
+}
+
+.lastline {
+    display: flex;
+    gap: 78%;
+}
+
+.install {
+    color: #17a2b8;
+    border-color: #17a2b8;
+    background-color: #191D28;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 42%;
+    margin-right: 50%;
+    cursor: pointer;
+    height: 30px;
+    width: 240px;
+    padding: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+}
+
+.install:hover {
+    color: white;
+    background-color: #17a2b8;
+}

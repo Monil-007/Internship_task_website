@@ -1,0 +1,103 @@
+.table2 {
+    display: flex;
+    font-size: 20px;
+    color: white;
+    margin-left: 5%;
+    white-space: nowrap;
+    font-weight: bolder;
+}
+
+.rowhead {
+    display: flex;
+    color: grey;
+    gap: 26%;
+    margin-bottom: 20px;
+}
+
+.r1 {
+    display: flex;
+    gap: 30%;
+    margin-bottom: 25px;
+}
+
+.r2 {
+    display: flex;
+    gap: 30%;
+    margin-bottom: 25px;
+    justify-content: flex-start;
+}
+
+.r3 {
+    display: flex;
+    gap: 30%;
+    margin-bottom: 25px;
+}
+
+.r4 {
+    display: flex;
+    gap: 30%;
+    margin-bottom: 25px;
+}
+
+.r5 {
+    display: flex;
+    gap: 30%;
+    margin-bottom: 25px;
+}
+
+.r22 {
+    margin-left: 37px;
+}
+
+.r23 {
+    margin-left: 68px;
+}
+
+.r24 {
+    margin-left: 15px;
+}
+
+.r31 {
+    margin-left: -15px;
+}
+
+.r32 {
+    margin-left: 20px;
+}
+
+.r33 {
+    margin-left: -20px;
+}
+
+.r41 {
+    margin-left: -4px;
+}
+
+.r42 {
+    margin-left: 70px;
+}
+
+.r43 {
+    margin-left: 90px;
+
+}
+
+.r44 {
+    margin-left: 25px;
+}
+
+.r52 {
+    margin-left: 58px;
+}
+
+.r51 {
+    margin-left: -19px;
+}
+
+.r53 {
+    margin-left: 75px;
+}
+
+.r13 {
+    margin-left: -16px;
+}

@@ -1,0 +1,100 @@
+.major1 {
+    display: flex;
+    flex-direction: row;
+    gap: 13%;
+    color: #3DC6C1;
+    margin-left: 5%;
+    margin-top: 70px;
+    margin-bottom: 80px;
+    margin-right: 45px;
+}
+
+.mins {
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+
+.minperct {
+    font-size: 30px;
+}
+
+.hour {
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+
+.hourperct {
+    font-size: 30px;
+}
+
+.quote {
+    margin-left: 28px;
+    margin-top: -4pc;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.central {
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    white-space: nowrap;
+}
+
+
+.day {
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+
+.dayperct {
+    font-size: 30px;
+}
+
+.days {
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+
+.daysperct {
+    font-size: 30px;
+}
+
+.bestprice {
+    margin-top: 4px;
+    color: white;
+    margin-bottom: 16px;
+    font-size: 60px;
+    margin-left: -26px;
+}
+
+.mintime {
+    color: grey;
+}
+
+.hourtime {
+    color: grey;
+}
+
+.quote {
+    color: grey;
+}
+
+.avgprice {
+    font-size: 10px;
+    color: grey;
+    margin-bottom: 28px;
+    font-size: 14px;
+}
+
+.daytime {
+    color: grey;
+}
+
+.daystime {
+    color: grey;
+}
